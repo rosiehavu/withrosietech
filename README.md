@@ -8,7 +8,7 @@ My journey begins with the passion for combining technology and psychology in th
 
 To me, technology is not a tool but rather an extension of human behavior, one that should empower, not overwhelm. Having worked across the product lifecycle, I ensure that products are not only functional, but also engaging, accessible, and built for long-term success.
 
-When I'm not coding, you will find my [writing](https://omniscient-gate-2e9.notion.site/Ha-Vu-s-Creative-Portfolio-1d0b894888b28002acb2e01651b4eb54?pvs=74), travelling, cooking with mom, running with dad, hiking with tuki, or chatting with my brother Khoi. 
+When I'm not coding, you will find me [writing](https://omniscient-gate-2e9.notion.site/Ha-Vu-s-Creative-Portfolio-1d0b894888b28002acb2e01651b4eb54?pvs=74), travelling, cooking with mom, running with dad, hiking with tuki, or chatting with my brother Khoi. 
 
 ## 🌱 Currently  
 - Studying Master of IT @ UniMelb
