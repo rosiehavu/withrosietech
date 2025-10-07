@@ -2,6 +2,8 @@
 
 <h3 align="center"> A desginer engineer who aims to humanize technology and delivers user-centric & interactive products. </h3>
 
+
+
 <ul>
   <li> I’m currently learning Backend Development </li>
   <li> Discover my main coding projects here  </li>
