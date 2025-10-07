@@ -3,7 +3,6 @@
 💻 **Master of IT | Human-Computer Interaction @ UniMelb**  
 A design engineer who aims to humanize technology and build user-centric products.
 
----
 ## About me
 My journey begins with the passion for combining technology and psychology in the data-driven world and bridge the gap between them. My ultimate goal is to humanize technology and build user-centric products that foster meaningful engagement and take mental well-being into account. 
 
@@ -14,8 +13,6 @@ When I'm not coding, you will find my [writing](https://omniscient-gate-2e9.noti
 ## 🌱 Currently  
 - Studying Master of IT @ UniMelb
 - Gaining back-end skills
-
----
 
 ## Technical Skills  
 
@@ -32,8 +29,6 @@ When I'm not coding, you will find my [writing](https://omniscient-gate-2e9.noti
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-
-
 
 ## 📫 Let’s Connect  
 📧 **vulengocha@gmail.com**  
