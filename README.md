@@ -20,14 +20,9 @@ When I'm not coding, you will find me [writing](https://omniscient-gate-2e9.noti
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
 ## 📫 Let’s Connect  
